@@ -1,1 +1,1 @@
-select * from CELESTIALBODY t
+select * from CELESTIALBODY q
