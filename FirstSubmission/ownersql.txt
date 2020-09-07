@@ -1,0 +1,1122 @@
+INSERT INTO owner
+VALUES('USA', 'SpaceX', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Hera Systems', 'Commercial');
+INSERT INTO owner
+VALUES('Spain', 'Universitat Politecnica de Catalunya', 'Civil');
+INSERT INTO owner
+VALUES('Finland', 'University of Aalto', 'Civil');
+INSERT INTO owner
+VALUES('Denmark', 'University of Aalborg', 'Civil');
+INSERT INTO owner
+VALUES('Multinational', 'Asia Broadcast Satellite Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'National Reconnaissance Office (NRO)', 'Military');
+INSERT INTO owner
+VALUES('USA', 'US Air Force', 'Military');
+INSERT INTO owner
+VALUES('USA', 'US Air Force ', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Department of Homeland Security', 'Government');
+INSERT INTO owner
+VALUES('ESA', 'European Space Agency (ESA)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Aerospace Corporation', 'Commercial');
+INSERT INTO owner
+VALUES('Multinational', 'EUTELSAT S.A.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Center for Atmospheric Sciences, Hampton University/NASA', 'Government');
+INSERT INTO owner
+VALUES('Germany', 'German Aerospace Center (DLR)', 'Government');
+INSERT INTO owner
+VALUES('Norway', 'Norwegian Coastal Admnistration', 'Government');
+INSERT INTO owner
+VALUES('Russia', 'Samara State Aerospace University, SGAU', 'Commercial/Civil');
+INSERT INTO owner
+VALUES('Spain', 'AISTech', 'Commercial');
+INSERT INTO owner
+VALUES('United Arab Emirates', 'Al Yah Satellite Communications Co. (YAHSAT)', 'Commercial');
+INSERT INTO owner
+VALUES('Algeria', 'Algerian Space Agency (ASAL)', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'Astro Live Experiences', 'Commercial');
+INSERT INTO owner
+VALUES('Kazakhstan', 'Al-Farabi Kazakh National University', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'US Air Force Institute of Technology', 'Military');
+INSERT INTO owner
+VALUES('Algeria', 'Algerian Space Agency (ASAL)/UK Space Agency', 'Government');
+INSERT INTO owner
+VALUES('Spain', 'Hispamar (subsidiary of Hispasat - Spain)', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'SES S.A.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'SES S.A./Gogo', 'Commercial');
+INSERT INTO owner
+VALUES('Russia', 'Moscow State University', 'Civil');
+INSERT INTO owner
+VALUES('Israel', 'Space-Communication Ltd.', 'Military/Commercial');
+INSERT INTO owner
+VALUES('USA', 'AMSAT-NA', 'Civil');
+INSERT INTO owner
+VALUES('ESA', 'Centre National d''Etudes Spatiales (CNES)', 'Government');
+INSERT INTO owner
+VALUES('Canada', 'Telesat Canada Ltd. (BCE, Inc.)', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Kyushu Institute of Technology (KIT)', 'Civil');
+INSERT INTO owner
+VALUES('Argentina', 'Aprize Satellite Argentina', 'Commercial');
+INSERT INTO owner
+VALUES('USA/Argentina', 'Aprize Satellite', 'Commercial');
+INSERT INTO owner
+VALUES('Canada', 'Aprize Satellite', 'Commercial');
+INSERT INTO owner
+VALUES('Canada', 'exactEarth', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'APT Satellite Holdings Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('Multinational', 'Arab Satellite Communications Org. (ASCO)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Planetary Resources', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Satellite Design Laboratory UT Austin/Baylor University', 'Civil');
+INSERT INTO owner
+VALUES('Argentina', 'ArSat', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Asia Satellite Telecommunications Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', '1Worldspace', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Japan Space Systems', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Massachusetts Institute of Technology/NASA ', 'Government/Civil');
+INSERT INTO owner
+VALUES('Luxembourg', 'SES S.A.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Astranis', 'Commercial');
+INSERT INTO owner
+VALUES('Switzerland', 'Astrocast', 'Commercial');
+INSERT INTO owner
+VALUES('India', 'Telemetry Tracking and Command Network (ISTRAC) Centre', 'Government');
+INSERT INTO owner
+VALUES('USA', 'DirecTV, Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('France/Italy', 'Centre National d''Etudes Spatiales (CNES)/Agenzia Spaziale Italiana (ASI)', 'Government/Military');
+INSERT INTO owner
+VALUES('Singapore', 'Microspace Rapid Pvt Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('Hungary', 'ATL (Advanced Technology of Laser)', 'Commercial');
+INSERT INTO owner
+VALUES('Russia', 'Sputnix Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('Azerbaijan', 'Azercosmos', 'Government');
+INSERT INTO owner
+VALUES('USA/Mexico', 'Autonomous Popular University of the State of Puebla', 'Government/Civil');
+INSERT INTO owner
+VALUES('Bangladesh', 'Bangladesh Telecommunication Regulatory Commission (BTRC)', 'Government');
+INSERT INTO owner
+VALUES('Russia', 'Ministry of Defense', 'Military');
+INSERT INTO owner
+VALUES('China', 'GasTianta and GZH-HNJ BDS AGR Co., Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('Germany', 'Technical University, Berlin', 'Civil');
+INSERT INTO owner
+VALUES('China', 'Chinese Defense Ministry', 'Military/Government');
+INSERT INTO owner
+VALUES('China', 'Beijing Landview Mapping Information Technology Co. Ltd (BLMIT)', 'Commercial');
+INSERT INTO owner
+VALUES('Belarus', 'Belintersat', 'Government');
+INSERT INTO owner
+VALUES('Bhutan', 'Information and Communications Ministry', 'Government');
+INSERT INTO owner
+VALUES('Germany', 'Institute of Space Sensor Technology and Planetary Exploration', 'Government/Civil');
+INSERT INTO owner
+VALUES('USA', 'Salish Kootenai College', 'Civil');
+INSERT INTO owner
+VALUES('Belarus', 'National Academy of Sciences', 'Government');
+INSERT INTO owner
+VALUES('USA', 'BlackSky Global', 'Commercial');
+INSERT INTO owner
+VALUES('Lithuania', 'NanoAvionics', 'Commercial');
+INSERT INTO owner
+VALUES('Brazil', 'Embratel Star One', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'US Naval Academy Satellite Laboratory', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'SpaceQuest', 'Commercial');
+INSERT INTO owner
+VALUES('Indonesia', 'Bank Rakyat Indonesia (BRI)', 'Commercial');
+INSERT INTO owner
+VALUES('Canada', 'University of Toronto, Institute for Aerospace Studies', 'Civil');
+INSERT INTO owner
+VALUES('Multinational', 'BRITE Consortium', 'Government');
+INSERT INTO owner
+VALUES('France', 'UnseenLabs', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Broadcasting Satellite System Corp.', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Broadcasting Satellite System Corp./Sky Perfect JSAT Corporation', 'Commercial');
+INSERT INTO owner
+VALUES('Australia', 'Defence Science and Technology Group/University of New South Wales', 'Military/Civil');
+INSERT INTO owner
+VALUES('China', 'China Academy of Space Technology (CAST)', 'Government');
+INSERT INTO owner
+VALUES('Argentina', 'Satellogic S.A.', 'Commercial');
+INSERT INTO owner
+VALUES('Bulgaria', 'Bulsatcom', 'Commercial');
+INSERT INTO owner
+VALUES('France/USA', 'Centre National d''Etudes Spatiales (CNES)/NASA', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Capella Space', 'Commercial');
+INSERT INTO owner
+VALUES('India', 'Indian Space Research Organization (ISRO)', 'Government');
+INSERT INTO owner
+VALUES('Canada', 'Canadian Space Agency', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Johns Hopkins Applied Physics Laboratory', 'Government/Civil');
+INSERT INTO owner
+VALUES('China/Brazil', 'China National Space Administration (China)/National Institute for Space Research (Brazil)', 'Government');
+INSERT INTO owner
+VALUES('China/Brazil', 'China National Space Administration (CNSA)/National Institute for Space Research (Brazil)', 'Government');
+INSERT INTO owner
+VALUES('United Kingdom', 'Surrey Satellite Technology Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('United Kingdom', 'Earthi/Surrey Satellite Technology Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Air Force Research Laboratory', 'Military');
+INSERT INTO owner
+VALUES('Australia', 'Fleet Space Technologies', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Beijing Future Navigation Technology Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'NASA Goddard Space Flight Center', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'Canon Electronics ', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Los Alamos National Laboratory', 'Government');
+INSERT INTO owner
+VALUES('China/France', 'China National Space Administration (CNSA)/National Centre for Space Studies (CNES)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'NASA Goddard Space Flight Center', 'Government');
+INSERT INTO owner
+VALUES('China', 'Shanghai Engineering Center for Microsatellites', 'Government');
+INSERT INTO owner
+VALUES('ESA', 'European Space Agency', 'Government');
+INSERT INTO owner
+VALUES('USA', 'University of Florida', 'Government/Civil');
+INSERT INTO owner
+VALUES('China', 'Chinese Academy of Sciences', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'Nagoya University and Daido University', 'Commercial/Civil');
+INSERT INTO owner
+VALUES('USA', 'GeoOptics Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('Canada', 'Ciel Satellite Group', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'University of California-Berkeley/Imperial College-London', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'Utah State University', 'Commercial/Civil');
+INSERT INTO owner
+VALUES('USA', 'Unknown US agency', 'Military');
+INSERT INTO owner
+VALUES('USA', 'NASA/Colorado State University', 'Government/Civil');
+INSERT INTO owner
+VALUES('Germany', 'FH Aachen', 'Government/Civil');
+INSERT INTO owner
+VALUES('South Korea', 'Korea Aerospace Research Institute (KARI)', 'Government');
+INSERT INTO owner
+VALUES('Germany', 'Armed Forces', 'Military');
+INSERT INTO owner
+VALUES('South Africa', 'Armed Forces', 'Military');
+INSERT INTO owner
+VALUES('USA', 'US Air Force/ US Navy/NASA', 'Military');
+INSERT INTO owner
+VALUES('Taiwan/USA', 'Taiwan''s National Space Organization/National Oceanographic and Atmospheric Admistration (NOAA)', 'Government');
+INSERT INTO owner
+VALUES('Taiwan/USA', 'National Space Program Office (NSPO)/University Corporation for Atmospheric Research (UCAR) Boulder, CO', 'Government/Civil');
+INSERT INTO owner
+VALUES('Italy', 'Italian Space Agency/Ministry of Defense', 'Military/Civil');
+INSERT INTO owner
+VALUES('USA', 'California Polytechnic State University/NASA JPL', 'Government/Civil');
+INSERT INTO owner
+VALUES('USA', 'University of Colorado', 'Civil');
+INSERT INTO owner
+VALUES('France', 'Directorate General of Armaments (DGA)', 'Military');
+INSERT INTO owner
+VALUES('Argentina', 'Argentinian Ministry of Science, Technology and Productive Innovation/Radio Club Bariloche', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'Ohio State University/NASA', 'Government/Civil');
+INSERT INTO owner
+VALUES('USA', 'University of Illinois Urbana-Champaign', 'Civil');
+INSERT INTO owner
+VALUES('Japan', 'Department of Astronautics, University of Tokyo', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'University of Michigan/NASA Earth Science Technology Office', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'Japan Aerospace Exploration Agency (JAXA)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'California Polytechnic State University', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'North Idaho STEM Charter Academy', 'Civil');
+INSERT INTO owner
+VALUES('China', 'China Amateur Satellite - CAMSAT', 'Civil');
+INSERT INTO owner
+VALUES('Spain', 'Deimos Imaging/DMC International Imaging (DMCII)', 'Government');
+INSERT INTO owner
+VALUES('Netherlands', 'Technical University, Delft', 'Civil');
+INSERT INTO owner
+VALUES('Denmark', 'Aarhus University', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'DARPA (Defense Advanced Research Projects Agency)', 'Military');
+INSERT INTO owner
+VALUES('United Kingdom', 'Sky and Space Global, UK', 'Commercial');
+INSERT INTO owner
+VALUES('Switzerland', 'SpacePharma', 'Commercial');
+INSERT INTO owner
+VALUES('Philippines', 'University of the Philippines', 'Government/Civil');
+INSERT INTO owner
+VALUES('Japan', 'Philippines’ Department of Science and Technology, University of the Philippines Diliman, and Japan’s Hokkaido University and Tohoku University', 'Civil');
+INSERT INTO owner
+VALUES('Germany', 'Deutsches Zentrum für Luft- und Raumfahrt', 'Government');
+INSERT INTO owner
+VALUES('USA', 'DoD/NOAA', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Planet Labs, Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'National Space Development Agency', 'Government');
+INSERT INTO owner
+VALUES('Germany', 'German Orbital Systems ', 'Commercial');
+INSERT INTO owner
+VALUES('United Arab Emirates', 'Emirates Institution for Advanced Science & Technology (EIAST)', 'Government');
+INSERT INTO owner
+VALUES('Israel', 'Herzliya Science Center (HSC)', 'Civil');
+INSERT INTO owner
+VALUES('Israel', 'Herzliya Science Centre (HSC)', 'Civil');
+INSERT INTO owner
+VALUES('Russia', 'Dauria Aerospace', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Global Eagle Entertainment', 'Commercial');
+INSERT INTO owner
+VALUES('Italy', 'OHB Italia', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Santa Clara University', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Echostar Satellite Services, LLC', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'HughesNet leased from Echostar Technologies, LLC', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Echostar Satellite Services, LLC/Intelsat ', 'Commercial');
+INSERT INTO owner
+VALUES('Ecuador', 'Equator Technological University', 'Civil');
+INSERT INTO owner
+VALUES('ESA', 'Airbus', 'Commercial');
+INSERT INTO owner
+VALUES('Egypt', 'National Authority for Remote Sensing and Space Science (NARSS)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Momentus', 'Commercial');
+INSERT INTO owner
+VALUES('Russia', 'Roshydromet - Planeta', 'Government');
+INSERT INTO owner
+VALUES('USA', 'University of California', 'Commercial/Civil');
+INSERT INTO owner
+VALUES('France', 'DGA (Arms Procurement Agency)/Centre National d''Etudes Spatiales (CNES)', 'Military');
+INSERT INTO owner
+VALUES('India', 'Defence Research and Development Organization', 'Military');
+INSERT INTO owner
+VALUES('USA/Canada/Japan', 'Earth Sciences Enterprise (NASA)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Goddard Space Flight Center/EOS Data and Operations System', 'Government');
+INSERT INTO owner
+VALUES('USA/Japan/Brazil', 'NASA - Earth Science Enterprise/Japan Meteorological Agency/Brazilian Space Agency', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Brown University', 'Government');
+INSERT INTO owner
+VALUES('Israel', 'ImageSat International, NV/Ministry of Defense', 'Military/Commercial');
+INSERT INTO owner
+VALUES('ESA', 'European University Network', 'Civil');
+INSERT INTO owner
+VALUES('Multinational', 'EUTELSAT S.A./Es''hailSat', 'Commercial');
+INSERT INTO owner
+VALUES('Qatar', 'Es’hailSat', 'Military/Commercial');
+INSERT INTO owner
+VALUES('USA', 'NASA', 'Government');
+INSERT INTO owner
+VALUES('Ethiopia', 'Ethiopian Space Science and Technology Institute', 'Government');
+INSERT INTO owner
+VALUES('Multinational', 'EUTELSAT Americas', 'Commercial');
+INSERT INTO owner
+VALUES('Multinational', 'EUTELSAT S.A./Nilesat', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Defense Advanced Research Projects Agency (DARPA)', 'Military');
+INSERT INTO owner
+VALUES('Russia', 'International Organization of Space Communications (Intersputnik)', 'Commercial');
+INSERT INTO owner
+VALUES('India', 'Exseed Space', 'Commercial');
+INSERT INTO owner
+VALUES('ESA', 'CNES (Centre national d''études spatiales)', 'Government');
+INSERT INTO owner
+VALUES('Colombia', 'Colombian Air Force', 'Military');
+INSERT INTO owner
+VALUES('USA', 'US Air Force Academy', 'Military/Civil');
+INSERT INTO owner
+VALUES('USA', 'University of Texas - Austin', 'Military/Civil');
+INSERT INTO owner
+VALUES('China', 'Link Space Aerospace Technology', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'China Meteorological Administration', 'Government');
+INSERT INTO owner
+VALUES('USA', 'NASA/GSFC', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Firebird Consortium (Montana State Univ., Univ. of New Hampshire, Aerospace Corp., Los Alamos National Laboratory)', 'Government/Civil');
+INSERT INTO owner
+VALUES('Brazil', 'Federal University of Santa Catarina', 'Civil');
+INSERT INTO owner
+VALUES('Germany', 'University of Stuttgart', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'US Navy', 'Military');
+INSERT INTO owner
+VALUES('Taiwan', 'National Space Organization', 'Government');
+INSERT INTO owner
+VALUES('Spain', 'Fossa Systems', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'AMSAT-NA/University of Iowa/Penn State Erie/Virginia Tech', 'Civil');
+INSERT INTO owner
+VALUES('Netherlands', 'AMSAT-UK', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'PanAmSat (Intelsat S.A.)', 'Commercial');
+INSERT INTO owner
+VALUES('USA/Japan', 'PanAmSat (Intelsat S.A.)/Sky Perfect JSAT Corp.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Intelsat S.A.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Intelsat S.A. ', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'PanAmSat (Intelsat S.A.)/DirecTV, Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'China National Academy of Sciences (CNSAS)', 'Government');
+INSERT INTO owner
+VALUES('China', 'People''s Liberation Army (C41)', 'Military');
+INSERT INTO owner
+VALUES('China', 'State Oceanic Administration (SOA)', 'Government');
+INSERT INTO owner
+VALUES('China', 'Ministry of Natural Resources/Ministry of Housing and Urban-Rural Development/National Bureau of Statistics', 'Government');
+INSERT INTO owner
+VALUES('China', 'China’s Ministry of Land and Resources, Ministry of Environmental Protection, and Ministry of Agriculture', 'Government');
+INSERT INTO owner
+VALUES('Denmark', 'GomSpace ApS', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'NearSpace Launch/Air Force Research Laboratory', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Bigelow Aerospace', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'DigitalGlobe Corporation', 'Government/Commercial');
+INSERT INTO owner
+VALUES('South Korea', 'Korea Meteorological Administration/National Meteorological Satellite Center', 'Government');
+INSERT INTO owner
+VALUES('Multinational', 'Institute of Space and Astronautical Science (ISAS)/NASA/ESA', 'Government');
+INSERT INTO owner
+VALUES('Canada', 'GHGSat, Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('USA/Japan', 'Japan Aerospace Exploration Agency (JAXA)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Globalstar', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'NOAA (National Oceanographic and Atmospheric Administration)', 'Government');
+INSERT INTO owner
+VALUES('Turkey', 'Turkish Ministry of National Defense', 'Military');
+INSERT INTO owner
+VALUES('Russia', 'Gonets Satcom', 'Government/Commercial');
+INSERT INTO owner
+VALUES('Japan', 'JAXA, Ministry of Environment, National Institute of Environmental Studies', 'Government');
+INSERT INTO owner
+VALUES('Luxembourg', 'LuxGovSat', 'Government/Military');
+INSERT INTO owner
+VALUES('USA/Japan', 'NASA/JAXA', 'Government');
+INSERT INTO owner
+VALUES('USA/Germany', 'NASA/German Research Centre for Geosciences (GFZ)', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'Axelspace', 'Commercial');
+INSERT INTO owner
+VALUES('India', 'Indian Navy', 'Military');
+INSERT INTO owner
+VALUES('India', 'Indian Air Force', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Air Force Satellite Control Network', 'Military');
+INSERT INTO owner
+VALUES('USA', 'University of Iowa', 'Government');
+INSERT INTO owner
+VALUES('USA', 'HawkEye 360', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'HEAD Aerospace', 'Commercial');
+INSERT INTO owner
+VALUES('France/Italy/Belgium/Spain/Greece', 'Centre National d''Etudes Spatiales (CNES)/Délégation Générale de l''Armement (DGA)', 'Military');
+INSERT INTO owner
+VALUES('Greece', 'Hellas-Sat Consortium Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('Greece/United Kingdom', 'Hellas-Sat Consortium Ltd./INMARSAT', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Space Sciences Laboratory, UC Berkeley/NASA', 'Government/Civil');
+INSERT INTO owner
+VALUES('Netherlands', 'Hiber Global', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Japan Meteorological Agency/Meteorological Satellite Center (MSC)', 'Government');
+INSERT INTO owner
+VALUES('Multinational', 'Institute of Space and Aeronautical Science/NASA', 'Government');
+INSERT INTO owner
+VALUES('Spain', 'Hispasat', 'Government/Commercial/Military');
+INSERT INTO owner
+VALUES('China', 'National Remote Sensing Center (NRSCC)', 'Government');
+INSERT INTO owner
+VALUES('China', 'National Committee for Disaster Reduction and State Environmental Protection', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'University of Tokyo and NESTRA', 'Government');
+INSERT INTO owner
+VALUES('China', 'China Aerospace Science and Technology Corporation (CASC)', 'Government');
+INSERT INTO owner
+VALUES('China', 'China Aerospace Science and Industry Corporation (CASIC)', 'Commercial');
+INSERT INTO owner
+VALUES('USA/Japan', 'Horizons 2 Satellite, LLC (Intelsat, Sky Perfect JSAT Corporation)', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Harris Corporation', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Shanghai Lizheng Satellite Application Technology', 'Commercial');
+INSERT INTO owner
+VALUES('ESA/USA', 'European Space Agency (ESA)/NASA', 'Government');
+INSERT INTO owner
+VALUES('China', 'Huaian Youth Comprehensive Development Base', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'University of Washington', 'Civil');
+INSERT INTO owner
+VALUES('China', 'National Space Science Center (NSSC)', 'Government');
+INSERT INTO owner
+VALUES('United Kingdom', 'Avanti Communications, PLC', 'Commercial');
+INSERT INTO owner
+VALUES('Finland', 'ICEYE Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'U.S. Army Space and Missile Defense Command', 'Military');
+INSERT INTO owner
+VALUES('Japan', 'Cabinet Satellite Intelligence Center (CSIC)', 'Government');
+INSERT INTO owner
+VALUES('United Kingdom', 'INMARSAT, Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('United Kingdom/ESA', 'INMARSAT, Ltd./European Space Agency (ESA)', 'Government/Commercial');
+INSERT INTO owner
+VALUES('Malaysia', 'Astronautic Technology Sdn. Bhd (ATSB)', 'Government');
+INSERT INTO owner
+VALUES('ESA/USA/Russia', 'European Space Operations Centre (ESOC)/NASA/Russia', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Intelsat S.A./Sky Perfect JSAT Corp.', 'Commercial');
+INSERT INTO owner
+VALUES('Multinational', 'NASA/Multinational', 'Government');
+INSERT INTO owner
+VALUES('USA', 'NASA/Goddard Space Flight Center', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Orbital Micro Systems Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Iridium Communications, Inc.', 'Government/Commercial');
+INSERT INTO owner
+VALUES('USA', 'Irvine Public Schools Foundation', 'Civil');
+INSERT INTO owner
+VALUES('Czech Republic', 'iSky Technology', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'NASA/CalPoly', 'Government/Civil');
+INSERT INTO owner
+VALUES('Turkey', 'ITU Space Systems Design & Test Laboratory', 'Civil');
+INSERT INTO owner
+VALUES('Thailand', 'Radio Amateur Society of Thailand (RAST)', 'Civil');
+INSERT INTO owner
+VALUES('USA/France', 'NASA/Centre National d''Etudes Spatiales (CNES)/NOAA/EUMETSAT', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'Sky Perfect JSAT Corporation', 'Commercial');
+INSERT INTO owner
+VALUES('Japan/Singapore', 'Sky Perfect JSAT Corporation/Kacific', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Space OK (Shanghai Ok Space Co Ltd.)', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Chang Guang Satellite Technology Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Chang Guang Satellite Technology Co. Ltd. ', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Chinese University Corporation for Polar Research', 'Civil');
+INSERT INTO owner
+VALUES('Jordan', 'Crown Prince Foundation', 'Civil');
+INSERT INTO owner
+VALUES('China', 'China Aerospace Science and Technology Corp. (CASC)', 'Government');
+INSERT INTO owner
+VALUES('Russia', 'Scientific Production Corporation (joint stock creation of Russian Space Agency)', 'Government');
+INSERT INTO owner
+VALUES('Russia', 'Roscosmos State Corporation', 'Government');
+INSERT INTO owner
+VALUES('Kazakhstan', 'Kazcosmos', 'Government');
+INSERT INTO owner
+VALUES('Kazakhstan', 'JSC KazSat', 'Commercial');
+INSERT INTO owner
+VALUES('Kazakhstan', 'Ghalam LLP', 'Commercial');
+INSERT INTO owner
+VALUES('Singapore', 'National University of Singapore', 'Civil');
+INSERT INTO owner
+VALUES('Canada', 'Kepler Communications', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'U.S. Army Space and Missile Defense Command/Army Forces Strategic Command', 'Military');
+INSERT INTO owner
+VALUES('United Kingdom', 'Kepler Communications', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Ministry of Defense', 'Military');
+INSERT INTO owner
+VALUES('China', 'Tsinghua University', 'Civil');
+INSERT INTO owner
+VALUES('Japan', 'Tokyo Metropolitan College of Industrial Technology', 'Civil');
+INSERT INTO owner
+VALUES('China/Germany', 'Innovation Academy for Microsatellites, Chinese Academy of Sciences/unnamed German firm', 'Commercial');
+INSERT INTO owner
+VALUES('South Korea', 'KT Corporation/Korean Agency for Defense Development (ADD)', 'Military/Commercial');
+INSERT INTO owner
+VALUES('South Korea', 'KT Corporation', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Beijing Commsat Technology Development Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Astro Digital', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'NASA/US Geological Survey', 'Government');
+INSERT INTO owner
+VALUES('Laos', 'Laos National Authority for Science and Technology', 'Government');
+INSERT INTO owner
+VALUES('Indonesia', 'Indonesian National Aeronautics and Space Agency (Lembaga Penerbangan dan Antariksa Nasional - LAPAN)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Spire Global Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('Germany', 'German Orbital Systems', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Harbin Institute/China Amateur Satellite - CAMSAT', 'Civil');
+INSERT INTO owner
+VALUES('China', 'Xinwei Telecom Technology Company', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Beijing ZeroG Technology Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Changchun Institute of Optics', 'Commercial');
+INSERT INTO owner
+VALUES('Russia', 'Russian Federal Space Agency', 'Government');
+INSERT INTO owner
+VALUES('Czech Republic', 'SkyFox Labs', 'Commercial');
+INSERT INTO owner
+VALUES('Spain', 'University of Vigo/Alén Space', 'Commercial/Civil');
+INSERT INTO owner
+VALUES('China', 'Wuhan University', 'Civil');
+INSERT INTO owner
+VALUES('Canada', 'Defence Research and Development Canada (DRDC)/Canadian Space Agency', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Northwest Nazarene University', 'Commercial/Civil');
+INSERT INTO owner
+VALUES('Morocco/Germany', 'CTRS Morocco/Institut für Luft-und Raumfahrttechnik (Berlin)', 'Government');
+INSERT INTO owner
+VALUES('Italy', 'Max Valier school Bolzano, Italy, Oskar von Miller school, Merano, Italy', 'Civil');
+INSERT INTO owner
+VALUES('Philippines', 'Kyushu Institute of Technology (KIT)', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'University of Michigan/Montana University', 'Civil');
+INSERT INTO owner
+VALUES('Malaysia', 'MEASAT Satellite Systems Sdn. Bhd.', 'Commercial');
+INSERT INTO owner
+VALUES('India/France', 'Indian Space Research Organization (ISRO)/Centre National d''Etudes Spatiales (CNES)', 'Government');
+INSERT INTO owner
+VALUES('Indonesia', 'PT Telkomunikasi', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'National Reconnaissance Office (NRO)/US Air Force', 'Military');
+INSERT INTO owner
+VALUES('Russia', 'Military Space Forces (VKS)', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Analytical Space', 'Government');
+INSERT INTO owner
+VALUES('Russia', 'Russian Federal Service For Hydrometeorology and Environmental Monitoring (ROSHYDROMET)', 'Government');
+INSERT INTO owner
+VALUES('Multinational', 'EUMETSAT (European Organization for the Exploitation of Meteorological Satellites)', 'Government/Civil');
+INSERT INTO owner
+VALUES('Multinational', 'ESA/EUMETSAT (European Organization for the Exploitation of Meterological Satellites)', 'Government/Civil');
+INSERT INTO owner
+VALUES('USA', 'Space Logistics LLC', 'Commercial');
+INSERT INTO owner
+VALUES('Mexico', 'Mexico Telecomm', 'Government/Military');
+INSERT INTO owner
+VALUES('Vietnam', 'Vietnam National Space Center', 'Government');
+INSERT INTO owner
+VALUES('USA', 'MIT/Lincoln Laboratory-University of Massachusetts  Amherst', 'Civil/Government');
+INSERT INTO owner
+VALUES('USA', 'University of Colorado, Boulder', 'Government/Civil');
+INSERT INTO owner
+VALUES('Morocco', 'Kingdom of Morocco', 'Government');
+INSERT INTO owner
+VALUES('Germany', 'Technical University of Munich', 'Government/Civil');
+INSERT INTO owner
+VALUES('Russia', 'Mozhaisky Space Engineering Academy', 'Government/Civil');
+INSERT INTO owner
+VALUES('USA/Canada', 'Mobile Satellite Ventures', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'US Department of Energy/Office of Nonproliferation and National Security', 'Government/Military');
+INSERT INTO owner
+VALUES('USA', 'DoD/US Navy', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Tyvak Nanosatellite Systems, Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('Spain', 'Instituto Nacional de Técnia Aeroespacial (INTA)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'DoD/US Air Force', 'Military/Commercial');
+INSERT INTO owner
+VALUES('United Arab Emirates', 'Mohammed bin Rashid Space Centre/American University of Sharjah', 'Civil');
+INSERT INTO owner
+VALUES('Nepal', 'National Academy of Science and Technology (NAST)', 'Government');
+INSERT INTO owner
+VALUES('South Korea', 'Korea Advanced Institute of Science and Technology (KAIST)', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'Nihon University', 'Civil');
+INSERT INTO owner
+VALUES('Nigeria', 'NigComSat', 'Commercial');
+INSERT INTO owner
+VALUES('Nigeria', 'National Space Research and Development Agency (NASRDA)', 'Government');
+INSERT INTO owner
+VALUES('Egypt', 'Egyptian Radio and TV Union ', 'Government');
+INSERT INTO owner
+VALUES('Canada', 'Echostar Corporation (entire payload leased from Telesat Canada Ltd.)', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Ningxia Jingui Information Technology Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('India', 'Noorul Islam University', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'National Oceanographic and Atmospheric Administration (NOAA) (part of international program)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Stara Space', 'Commercial');
+INSERT INTO owner
+VALUES('Norway', 'Norwegian Space Center', 'Government');
+INSERT INTO owner
+VALUES('United Kingdom', 'UK Government/Surrey Satellite Technologies', 'Government/Commercial');
+INSERT INTO owner
+VALUES('USA', 'National Oceanographic and Atmospheric Administration (NOAA)/NASA', 'Government');
+INSERT INTO owner
+VALUES('USA', 'USAF Space Test Office', 'Civil/Military');
+INSERT INTO owner
+VALUES('South Africa', 'SCS Space', 'Civil');
+INSERT INTO owner
+VALUES('Israel', 'NSLComm', 'Commercial');
+INSERT INTO owner
+VALUES('Netherlands', 'SES S.A.', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'National University of Defense Technology', 'Military');
+INSERT INTO owner
+VALUES('Indonesia', 'PT Pasifik Satelit Nusantara', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'NASA-Ames Research Center/Stanford University', 'Government/Civil');
+INSERT INTO owner
+VALUES('United Kingdom', 'O3b Networks Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Michigan Technological University/Air Force Research Laboratory', 'Military');
+INSERT INTO owner
+VALUES('Sweden', 'Swedish National Space Board', 'Government');
+INSERT INTO owner
+VALUES('Israel', 'Ministry of Defense', 'Military');
+INSERT INTO owner
+VALUES('United Kingdom', 'OneWeb Satellites', 'Commercial');
+INSERT INTO owner
+VALUES('Spain', 'Spanish Space Agency', 'Government');
+INSERT INTO owner
+VALUES('Italy', 'Italian Defense Ministry', 'Military');
+INSERT INTO owner
+VALUES('Australia', 'Optus Communications (Parent: Singapore Telecom)', 'Commercial');
+INSERT INTO owner
+VALUES('Australia', 'Optus Communications (Parent: Singapore Telecom)/Australian Ministry of Defense', 'Military/Commercial');
+INSERT INTO owner
+VALUES('USA', 'ORBCOMM Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'University of Texas at El Paso', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'DARPA/Tethers Unlimited', 'Military');
+INSERT INTO owner
+VALUES('USA', 'USAF /ORSO (Operationally Responsive Space Office)', 'Military');
+INSERT INTO owner
+VALUES('USA', 'General Atomics - Electromagnetic Systems Group', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Zhuhai Orbita Aerospace Science and Technology Co.', 'Commercial');
+INSERT INTO owner
+VALUES('Mexico', 'Mexico Secretariat of National Defense (SEDENA)', 'Military');
+INSERT INTO owner
+VALUES('Pakistan', 'Pakistan Space and Upper Atmosphere Research Commission (SUPARCO)/PakSat International', 'Government/Commercial');
+INSERT INTO owner
+VALUES('Pakistan', 'Pakistan Space and Upper Atmosphere Research Commission (SUPARCO)', 'Government');
+INSERT INTO owner
+VALUES('Indonesia', 'PT Indosat', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Unknown US intelligence agency', 'Military');
+INSERT INTO owner
+VALUES('USA', 'US Naval Academy', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Helios Wire', 'Commercial');
+INSERT INTO owner
+VALUES('Spain', 'Hisdesat', 'Military/Commercial');
+INSERT INTO owner
+VALUES('USA', 'Tiger Innovations', 'Commercial');
+INSERT INTO owner
+VALUES('Netherlands', 'Netherlands Organization for Applied Scientific Research (NTO) consortium', 'Government');
+INSERT INTO owner
+VALUES('Russia/USA', 'Dauria Aerospace', 'Commercial');
+INSERT INTO owner
+VALUES('Peru', 'Peruvian SpaceAgency', 'Government');
+INSERT INTO owner
+VALUES('France/Italy', 'Ministry of Defense/Centre National d''Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden', 'Government');
+INSERT INTO owner
+VALUES('France', 'Ministry of Defense/Centre National d''Etudes Spatiales (CNES) - cooperation with Austria, Belgium, Spain, Sweden', 'Government');
+INSERT INTO owner
+VALUES('USA', 'US Coast Guard', 'Military');
+INSERT INTO owner
+VALUES('Ukraine', 'National Technical University', 'Civil');
+INSERT INTO owner
+VALUES('Italy', 'Italian Space Agency', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Naval Post-Graduate School', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Georgia Institute of Technology', 'Civil');
+INSERT INTO owner
+VALUES('China', 'Shanghai Academy of Spaceflight Technology (SAST)', 'Government');
+INSERT INTO owner
+VALUES('Poland', 'Warsaw University of Technology', 'Civil');
+INSERT INTO owner
+VALUES('Belgium', 'Von Karman Institute (VKI)', 'Civil');
+INSERT INTO owner
+VALUES('China', 'Qiansheng Exploration Technology Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'iQPS', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Kyushu University', 'Civil');
+INSERT INTO owner
+VALUES('China', 'University of Science and Technology', 'Government');
+INSERT INTO owner
+VALUES('USA', 'SES S.A. -- total capacity leased to subsidiary of EchoStar Corp. ', 'Commercial');
+INSERT INTO owner
+VALUES('Sri Lanka', 'Kyushu Institute of Technology', 'Civil');
+INSERT INTO owner
+VALUES('Canada', 'MDA Corporation', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Vanderbilt University/AMSAT', 'Civil');
+INSERT INTO owner
+VALUES('Russia', 'RS3A Control Station', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'Montana State University', 'Civil');
+INSERT INTO owner
+VALUES('Germany', 'RapidEye AG', 'Commercial');
+INSERT INTO owner
+VALUES('Turkey', 'Space Technologies Research Institute', 'Government');
+INSERT INTO owner
+VALUES('Multinational', 'Regional African Satellite Communications Organization (RASCOM)', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Applied Physics Laboratory/NASA', 'Government');
+INSERT INTO owner
+VALUES('Finland', 'Reaktor Space Lab', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Institute of Space and Astronautical Science (ISAS)/Japan Aerospace Exploration Agency (JAXA)', 'Government');
+INSERT INTO owner
+VALUES('Russia', 'Skobeltsyn Institute of Nuclear Physics', 'Government');
+INSERT INTO owner
+VALUES('United Kingdom', 'Surrey Space Center', 'Commercial');
+INSERT INTO owner
+VALUES('India/Canada', 'Indian Space Research Organization (ISRO)/exactEarth', 'Government');
+INSERT INTO owner
+VALUES('India', 'Ministry of Defense', 'Military');
+INSERT INTO owner
+VALUES('Japan', 'Tohoku University', 'Civil');
+INSERT INTO owner
+VALUES('Japan', 'Tohoku University/Hokkaido University', 'Civil');
+INSERT INTO owner
+VALUES('France', 'University of Montpellier', 'Civil');
+INSERT INTO owner
+VALUES('ESA', 'European Space Agency (ESA) (and 250 international scientific investigators)', 'Government');
+INSERT INTO owner
+VALUES('Argentina', 'National Space Activities Commission (CONAE)', 'Government');
+INSERT INTO owner
+VALUES('Canada', 'Department of National Defense', 'Military');
+INSERT INTO owner
+VALUES('Saudi Arabia', 'Riyadh Space Research Institute', 'Commercial');
+INSERT INTO owner
+VALUES('Saudi Arabia', 'Space Research Institute, King Abdulaziz City for Science and Technology', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Strategic Space Command/Space Surveillance Network', 'Military');
+INSERT INTO owner
+VALUES('USA', 'National Reconnaissance Office (NRO)/US Navy', 'Military');
+INSERT INTO owner
+VALUES('Brazil', 'Instituto Nacional de Pesquisas Espaciais (INPE)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'University of North Carolina - Wilmington', 'Civil');
+INSERT INTO owner
+VALUES('ESA', 'EUMETSAT (European Organization for the Exploitation of Meteorological Satellites)', 'Government');
+INSERT INTO owner
+VALUES('Luxembourg', 'SES S.A./EchoStar Satellite Services, LLC', 'Commercial');
+INSERT INTO owner
+VALUES('Brazil', 'Telebras/Brazilian Air Force', 'Commercial/Military');
+INSERT INTO owner
+VALUES('China', 'Teen Satellite Project', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'NASA Langley Research Center', 'Government');
+INSERT INTO owner
+VALUES('China', 'China Satellite Communication Corp. (China Satcom)', 'Government');
+INSERT INTO owner
+VALUES('China', 'China Aerospace Science and Technology Corporation (CASC) ', 'Government');
+INSERT INTO owner
+VALUES('Italy', 'Italian Defense Ministry/Telespazio', 'Military/Commercial');
+INSERT INTO owner
+VALUES('France/Italy', 'Italian Defense Ministry/French Defense Ministry', 'Military');
+INSERT INTO owner
+VALUES('Iran', 'Iranian Research Organization for Science and Technology (IROST)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'SRI International', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Sirius XM Holdings', 'Commercial');
+INSERT INTO owner
+VALUES('Sweden', 'SES S.A.', 'Commercial');
+INSERT INTO owner
+VALUES('Russia', 'SPUTNIX Ltd.', 'Civil');
+INSERT INTO owner
+VALUES('Mexico', 'Sky Mexico', 'Commercial');
+INSERT INTO owner
+VALUES('Australia', 'NBN Co (operated by Optus)', 'Commercial');
+INSERT INTO owner
+VALUES('Brazil', 'DirecTV Latin America/Intelsat', 'Commercial');
+INSERT INTO owner
+VALUES('United Kingdom', 'Intelsat/Paradigm Secure Communications (wholly owned by EADS Astrium)', 'Military');
+INSERT INTO owner
+VALUES('United Kingdom', 'Ministry of Defense', 'Military');
+INSERT INTO owner
+VALUES('United Kingdom', 'Ministry of Defense/Paradigm Secure Communications (wholly owned by EADS Astrium)', 'Military');
+INSERT INTO owner
+VALUES('USA', 'LightSquared', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'US Army Space and Missile Defense Command', 'Military');
+INSERT INTO owner
+VALUES('Hungary', 'Budapest University of Technology and Economics', 'Civil');
+INSERT INTO owner
+VALUES('ESA', 'Centre National d''Etudes Spatiales (CNES)/European Space Agency (ESA)', 'Government');
+INSERT INTO owner
+VALUES('USA', 'US Southern Command', 'Military');
+INSERT INTO owner
+VALUES('Germany', 'Technical University Berlin', 'Civil');
+INSERT INTO owner
+VALUES('South Korea', 'Seoul National University', 'Civil');
+INSERT INTO owner
+VALUES('Japan', 'National Institute of Information and Communications Technology (JPN)', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Astrotech SOHLA', 'Civil');
+INSERT INTO owner
+VALUES('Germany', 'University of Wuerzburg', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'NASA Earth Science Office/Laboratory for Atmospheric and Space Physics, Univ. of Colorado', 'Government/Civil');
+INSERT INTO owner
+VALUES('India', 'South Asian Association for Regional Cooperation', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Swarm Technologies', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Hughes Space and Communications Co. ', 'Commercial');
+INSERT INTO owner
+VALUES('Spain', 'Hisdesat/Ministry of Defense', 'Military');
+INSERT INTO owner
+VALUES('USA/Sweden', 'Air Force Research Laboratory (AFRL)/Swedish Defense Materiel Administration', 'Military');
+INSERT INTO owner
+VALUES('Japan/Singapore', 'Kyushu Institute of Technology (Kyutech)/Nanyang Technological University (NTU)', 'Civil');
+INSERT INTO owner
+VALUES('Multinational', 'Astro Space Center of Moscow/Russian Academy of Sciences', 'Government');
+INSERT INTO owner
+VALUES('France', 'Ministry of Defense/General Delegation for Ordnance (DGA)', 'Military');
+INSERT INTO owner
+VALUES('France/Belgium/Sweden', 'Spot Image', 'Commercial');
+INSERT INTO owner
+VALUES('India', 'SRM University', 'Civil');
+INSERT INTO owner
+VALUES('Sudan', 'Government of Sudan', 'Government');
+INSERT INTO owner
+VALUES('Chile', 'Chilean Air Force', 'Government/Military');
+INSERT INTO owner
+VALUES('Singapore/Taiwan', 'Singapore Telecommunications Ltd. (SingTel)/Chunghwa Telecom Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('South Korea', 'Chosun University', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'West Virginia University', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'USAF Space Test Program', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Missile Defense Agency (MDA)', 'Military');
+INSERT INTO owner
+VALUES('Finland', 'Aalto University', 'Civil');
+INSERT INTO owner
+VALUES('Japan', 'Sky Perfect JSAT Corporation/DSN Corp.', 'Commercial/Military');
+INSERT INTO owner
+VALUES('China', 'Beijing Space View Technology', 'Commercial');
+INSERT INTO owner
+VALUES('India', 'College of Engineering, Pune', 'Civil');
+INSERT INTO owner
+VALUES('Poland', 'SatRevolution', 'Commercial');
+INSERT INTO owner
+VALUES('USA/United Kingdom/Italy', 'Goddard Space Flight Center/Penn State University', 'Government/Civil');
+INSERT INTO owner
+VALUES('Switzerland', 'Ecole Polytechnique Fédérale de Lausanne (EPFL)', 'Civil');
+INSERT INTO owner
+VALUES('France', 'Defense Ministry', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Naval Research Laboratory', 'Military');
+INSERT INTO owner
+VALUES('USA', 'Operational Responsive Space (ORS) Office', 'Military');
+INSERT INTO owner
+VALUES('Germany', 'German Aerospace Center (DLR)/Astrium', 'Government');
+INSERT INTO owner
+VALUES('China', 'Alibaba', 'Commercial');
+INSERT INTO owner
+VALUES('Russia', 'Southwestern State University', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'NASA/SES Americom (SES [Société Européenne des Satellites (SES)])', 'Government/Commercial');
+INSERT INTO owner
+VALUES('Israel', 'Defense Ministry', 'Military');
+INSERT INTO owner
+VALUES('Singapore', 'AgilSpace', 'Commercial');
+INSERT INTO owner
+VALUES('Multinational', 'EUTELSAT S.A. -- leased from Loral Skynet Satellite Services (Loral Global Alliance) ', 'Commercial');
+INSERT INTO owner
+VALUES('Canada', 'Telesat Canada Ltd. (BCE, Inc.)/APT Satellite Holdings Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Colorado State University', 'Civil');
+INSERT INTO owner
+VALUES('Japan', 'Kyushu Institute of Technology', 'Civil');
+INSERT INTO owner
+VALUES('Germany', 'German Aerospace Center (DLR)/Infoterra', 'Government/Commercial');
+INSERT INTO owner
+VALUES('USA', 'TerraStar Corporation', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'National Aeronautics  and Space Administration (NASA)', 'Government');
+INSERT INTO owner
+VALUES('Thailand', 'Thaicom Public Company Ltd. ', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'SpaceQuest, Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('Multinational', 'NASA/University of California, Berkeley (in partnership with Germany, France, Austria, Canada)', 'Government/Civil');
+INSERT INTO owner
+VALUES('Thailand', 'Geo-Informatics and Space Technology Development Agency (GISTDA)', 'Government');
+INSERT INTO owner
+VALUES('Norway', 'Telenor Satellite Broadcasting', 'Commercial');
+INSERT INTO owner
+VALUES('United Arab Emirates', 'Thuraya Satellite Communications', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Chinese Academy of Launch Vehicle Technology (CASIC)', 'Government');
+INSERT INTO owner
+VALUES('China', 'Guodian Gaoke', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Sun Yat-sen University', 'Civil');
+INSERT INTO owner
+VALUES('China', 'China Telecom', 'Government');
+INSERT INTO owner
+VALUES('China', 'Nanjing University of Aeronautics and Astronautics', 'Civil');
+INSERT INTO owner
+VALUES('China', 'China Electronic Technology Group', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Spacety Aerospace Co.', 'Commercial');
+INSERT INTO owner
+VALUES('China/France', 'Spacety Aerospace Co./ThrustMe', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Spacety Aerospace Co./Changsha Gaoxinqu Tianyi Research Institute', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Chinese Academy of Sciences (CAS)/China Academy of Space Technology', 'Government');
+INSERT INTO owner
+VALUES('Egypt', 'Ministry of Defense', 'Military/Commercial');
+INSERT INTO owner
+VALUES('Iraq', 'La Sapienza University of Rome', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'NASA/Applied Physics Laboratory, Johns Hopkins', 'Government/Civil');
+INSERT INTO owner
+VALUES('China', 'Shanghai Academy of Spaceflight Technology', 'Government');
+INSERT INTO owner
+VALUES('Bolivia', 'Bolivia Aerospace Bureau', 'Government');
+INSERT INTO owner
+VALUES('Germany', 'ACME AtronOmatic (MyRadar)', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Tokyo Institute of Technology, Tokyo University of Science and JAXA', 'Civil');
+INSERT INTO owner
+VALUES('Austria', 'Technical University of Graz', 'Civil');
+INSERT INTO owner
+VALUES('Turkmenistan/Monaco', 'Turkmenistan Ministry of Communications/SSI-Monaco', 'Government/Commercial');
+INSERT INTO owner
+VALUES('Turkey', 'Turksat', 'Commercial');
+INSERT INTO owner
+VALUES('Israel', 'Elbit Systems', 'Commercial');
+INSERT INTO owner
+VALUES('Malaysia', 'Universiti Teknologi Mara (UiTM)', 'Civil');
+INSERT INTO owner
+VALUES('United Kingdom', 'UK/DMC International Imaging (DMCII)', 'Government');
+INSERT INTO owner
+VALUES('United Kingdom', 'UK Space Agency', 'Government');
+INSERT INTO owner
+VALUES('Japan', 'Wakayama University (UNIFORM consortium)', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'University of Southern Indiana/NASA', 'Civil');
+INSERT INTO owner
+VALUES('Italy', 'University of Rome', 'Civil');
+INSERT INTO owner
+VALUES('Germany', 'University of Würzburg', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'NASA/Johns Hopkins University Applied Physics Laboratory', 'Government');
+INSERT INTO owner
+VALUES('Singapore', 'Nanyang Technological University', 'Civil');
+INSERT INTO owner
+VALUES('France/Israel', 'Centre National d''Etudes Spatiales (CNES)/Israel Space Agency', 'Government');
+INSERT INTO owner
+VALUES('Latvia', 'Ventspils University College', 'Civil');
+INSERT INTO owner
+VALUES('USA', 'ViaSat, Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('Vietnam', 'Vietnamese Posts and Telecommunications Group (VNPT)', 'Government');
+INSERT INTO owner
+VALUES('Vietnam', 'Space Technology Institute-Vietnam Academy of Science and Technology (STI-VAST)', 'Government');
+INSERT INTO owner
+VALUES('Venezuela', 'Bolivarian Agency for Space Activities', 'Government');
+INSERT INTO owner
+VALUES('Czech Republic', 'Czech Aerospace Research Center (VZLU)', 'Government');
+INSERT INTO owner
+VALUES('China', 'Shanghai Micro Satellite Engineering Center', 'Government');
+INSERT INTO owner
+VALUES('USA', 'Military Satellite Communications - US Air Force', 'Military');
+INSERT INTO owner
+VALUES('USA', 'WildBlue Communications', 'Commercial');
+INSERT INTO owner
+VALUES('Japan', 'Weathernews, Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('USA', 'Maxar Technologies Inc.', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'Chengdu Guoxing Aerospace Technology Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'DFH Satellite Co. Ltd.', 'Government');
+INSERT INTO owner
+VALUES('China', 'Unknown', 'Government');
+INSERT INTO owner
+VALUES('USA', 'XM Satellite Radio USA', 'Commercial');
+INSERT INTO owner
+VALUES('ESA', 'European Space Operations Centre (ESOC)', 'Government');
+INSERT INTO owner
+VALUES('Singapore', 'Centre for Research in Satellite Technology (CREST)', 'Government');
+INSERT INTO owner
+VALUES('Spain', 'Ministry of Defense/XTAR', 'Military/Government');
+INSERT INTO owner
+VALUES('China', 'DFH Satellite Co. Ltd./AMSAT-China', 'Civil');
+INSERT INTO owner
+VALUES('China', 'Chinese Amateur Satellite (CAMSAT)', 'Civil');
+INSERT INTO owner
+VALUES('Russia', 'Gazprom Space Systems', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'GalaxySpace', 'Commercial');
+INSERT INTO owner
+VALUES('Russia', 'Research Laboratory of Aerospace Technology (NILAKT ROSTO)', 'Civil');
+INSERT INTO owner
+VALUES('South Africa', 'Stellenbosch University', 'Civil');
+INSERT INTO owner
+VALUES('South Africa', 'French South African Institute of Technology/Cape Peninsula University of Technology', 'Civil');
+INSERT INTO owner
+VALUES('China/Italy', 'China Earthquake Administration/Italian Institute for Nuclear Physics', 'Government');
+INSERT INTO owner
+VALUES('China', 'Zhejiang University', 'Civil');
+INSERT INTO owner
+VALUES('China', 'China ', 'Government/Commercial');
+INSERT INTO owner
+VALUES('China', 'Zhuhai Orbita Control Engineering Co. Ltd.', 'Commercial');
+INSERT INTO owner
+VALUES('China', 'China Centre for Resources Satellite Data and Application (CRESDA)', 'Government');
+INSERT INTO owner
+VALUES('', '', '');
