@@ -1,0 +1,184 @@
+-- Create table
+create table LAUNCH
+(
+  launchdate        DATE not null,
+  location          VARCHAR2(50),
+  type              VARCHAR2(50),
+  launchvehiclename VARCHAR2(50) not null
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+-- Create/Recreate primary, unique and foreign key constraints 
+alter table LAUNCH
+  add constraint LAUNCHDATE primary key (LAUNCHDATE)
+  using index 
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+alter table LAUNCH
+  add constraint LAUNCHVEHICLENAME foreign key (LAUNCHVEHICLENAME)
+  references VEHICLE (VEHICLENAME);
+  
+  
+  ____________________________________________________________________________-
+ -- Create table
+create table SATELLITE
+(
+  satname        VARCHAR2(150) not null,
+  purpose        VARCHAR2(150),
+  companyname    VARCHAR2(150) not null,
+  ownercountry   VARCHAR2(150),
+  satapogee      NUMBER,
+  satperigee     NUMBER,
+  satinclination NUMBER,
+  satperiod      NUMBER
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+-- Create/Recreate primary, unique and foreign key constraints 
+alter table SATELLITE
+  add constraint SATNAME primary key (SATNAME)
+  using index 
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+alter table SATELLITE
+  add constraint SATORBIT foreign key (SATAPOGEE, SATPERIGEE, SATINCLINATION, SATPERIOD)
+  references ORBIT (APOGEE, PERIGEE, INCLINATION, PERIOD);
+
+____________________________________________________________________________
+
+-- Create table
+create table ORBIT
+(
+  orbitclass     NVARCHAR2(50),
+  orbittype      NVARCHAR2(250),
+  eccentricity   NUMBER,
+  apogee         NUMBER,
+  perigee        NUMBER,
+  inclination    NUMBER,
+  period         NUMBER,
+  longitudeofgeo NUMBER
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+________________________________________________________________________________________
+
+-- Create table
+create table OWNER
+(
+  country        VARCHAR2(50) not null,
+  companyname    VARCHAR2(200) not null,
+  classification VARCHAR2(50)
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+-- Create/Recreate primary, unique and foreign key constraints 
+alter table OWNER
+  add constraint OWNERPK primary key (COUNTRY, COMPANYNAME)
+  using index 
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+
+  _____________________________________________________________________________________________-
+  
+  -- Create table
+create table VEHICLE
+(
+  vehiclename  VARCHAR2(50) not null,
+  ownercountry VARCHAR2(50) not null,
+  maxpayload   NUMBER,
+  numlaunches  NUMBER
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+-- Create/Recreate primary, unique and foreign key constraints 
+alter table VEHICLE
+  add constraint VEHICLENAME primary key (VEHICLENAME)
+  using index 
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    next 1M
+    minextents 1
+    maxextents unlimited
+  );
+
+  
+  ________________________________________________________________________________________
+  
+  
